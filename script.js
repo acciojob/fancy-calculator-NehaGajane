@@ -8,4 +8,4 @@ num2 = prompt();
 num2 = parseFloat(num2);
 
 let result = num1*2+num2;
-alert(result);
+alert("The final result is: " + result);
